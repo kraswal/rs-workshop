@@ -1,6 +1,2 @@
 Some text of header
-<<<<<<< HEAD
-Changes from <master> 
-Changes from <first>
-
-Text from master: new changes!
+Changes from <master> - new changes!
