@@ -1,2 +1,4 @@
 Some text of header
 Changes from <master> - new changes!
+
+My pass: 1234
