@@ -1,2 +1,4 @@
 Some footer text
 
+New changes.
+My pass: 1234
